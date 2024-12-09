@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...font-end and back-end design
 - 💞️ I’m looking to collaborate on ...font-end and back-end design
 - 📫 How to reach me ...0546000304
-- 😄 Pronouns: ...doggy
+- 😄 Pronouns: ...Standard GH
 - ⚡ Fun fact: ...playful
 
 <!---
